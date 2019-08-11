@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "792253846061",
+    "firebase_url": "https://ipe-family-e1abb.firebaseio.com",
+    "project_id": "ipe-family-e1abb",
+    "storage_bucket": "ipe-family-e1abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792253846061:android:9a3519c73b14d97d",
+        "android_client_info": {
+          "package_name": "com.mrblab.ipe_family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792253846061-fir7rloa6i6bjvvb50ujdenm6io5bmbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrblab.ipe_family",
+            "certificate_hash": "cb8e5d2a8862b077b36ca8d450115c793e1b767a"
+          }
+        },
+        {
+          "client_id": "792253846061-fpbpk02509hku10n7j26167jrb0nfnnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7tXd1YDJtAqise7NO6-nqBF09c4GW4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792253846061-fpbpk02509hku10n7j26167jrb0nfnnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792253846061-k7smt6jn84sq8cles4okbcfkesoqchur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrb.ipefamily"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>792253846061-k7smt6jn84sq8cles4okbcfkesoqchur.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.792253846061-k7smt6jn84sq8cles4okbcfkesoqchur</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>792253846061-8b9ildgm4ulcj2gcnl92064lppdh57pp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQNQWAEAGwxmjlZP4xdP6F7-0Mxtxz6bc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>792253846061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mrb.ipefamily</string>
+	<key>PROJECT_ID</key>
+	<string>ipe-family-e1abb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ipe-family-e1abb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:792253846061:ios:1597ad0cef64d661</string>
+	<key>DATABASE_URL</key>
+	<string>https://ipe-family-e1abb.firebaseio.com</string>
+</dict>
+</plist>
