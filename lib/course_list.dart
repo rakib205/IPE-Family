@@ -15,7 +15,7 @@ class _FoldingCellListViewDemoState extends State<FoldingCellListViewDemo> {
               fontFamily: "Raleway",
               fontWeight: FontWeight.w600,
               color: Colors.black,
-              fontSize: 18
+              fontSize: 17
               
             );
 
