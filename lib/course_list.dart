@@ -15,7 +15,7 @@ class _FoldingCellListViewDemoState extends State<FoldingCellListViewDemo> {
               fontFamily: "Raleway",
               fontWeight: FontWeight.w600,
               color: Colors.black,
-              fontSize: 17
+              fontSize: 16
               
             );
 
@@ -72,11 +72,9 @@ class _FoldingCellListViewDemoState extends State<FoldingCellListViewDemo> {
 
               Container(child: Center(child: CircularProgressIndicator(),),) : 
 
-             Padding(
-          padding: EdgeInsets.only(bottom: 5),
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.end,
-            // crossAxisAlignment: CrossAxisAlignment.center,
+           Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
               Expanded(child :
                   ListView.builder(
@@ -104,7 +102,7 @@ class _FoldingCellListViewDemoState extends State<FoldingCellListViewDemo> {
               
             ],
           ),
-        ),
+        
               
             ),
 

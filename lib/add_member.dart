@@ -219,9 +219,7 @@ void checkExist (){
               key: formKey,
               child: Column(
                 children: <Widget>[
-                  SizedBox(
-                    height: 15,
-                  ),
+                  
                   SafeArea(
                     child: Row(
                       children: <Widget>[

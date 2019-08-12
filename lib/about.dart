@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:line_icons/line_icons.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class AboutPage extends StatelessWidget {
@@ -139,7 +140,7 @@ class AboutPage extends StatelessWidget {
             
             ListTile(
               leading: CircleAvatar(
-                child: Text('1'),
+                child: Icon(LineIcons.user),
                 
               ),
               title: Text('Md Mehedi Hasan Kibria',style: ts,),
@@ -148,7 +149,7 @@ class AboutPage extends StatelessWidget {
             
             ,ListTile(
               leading: CircleAvatar(
-                child: Text('2'),
+                child: Icon(LineIcons.user),
                 
               ),
               title: Text('Qausar Rahman',style: ts,),
@@ -156,7 +157,7 @@ class AboutPage extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                child: Text('3'),
+                child: Icon(LineIcons.user),
                 
               ),
               title: Text('Md Nazmul Hasan Dipu',style: ts,),
@@ -164,7 +165,7 @@ class AboutPage extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                child: Text('4'),
+                child: Icon(LineIcons.user),
                 
               ),
               title: Text('Akram Kabir',style: ts,),
@@ -172,7 +173,7 @@ class AboutPage extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                child: Text('5'),
+                child: Icon(LineIcons.user),
                 
               ),
               title: Text('Md Mehedi Hasan Niloy',style: ts,),
@@ -180,7 +181,7 @@ class AboutPage extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                child: Text('6'),
+                child: Icon(LineIcons.user),
                 
               ),
               title: Text('Ahmed Refie',style: ts,),

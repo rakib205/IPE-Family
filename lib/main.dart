@@ -38,6 +38,7 @@ class _MyAppState extends State<MyApp> {
         primaryColor: Colors.blueAccent,
         primarySwatch: Colors.blue,
         accentColor: Colors.blueAccent,
+        fontFamily: 'Raleway'
       ),
       home: SplashPage()
     );
